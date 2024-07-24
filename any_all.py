@@ -36,3 +36,5 @@ nomes = ["Carlos", "Camila", "Carla", "Cassiano", "Cristina", "Vanessa"]
 print(any([nome[0] == "C" for nome in nomes]))
 
 print(any([num for num in [4, 2, 10, 6, 8, 9] if num % 2 == 0]))
+
+print('curso')
